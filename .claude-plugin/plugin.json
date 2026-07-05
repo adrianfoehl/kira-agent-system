@@ -1,0 +1,15 @@
+{
+  "name": "kira-agent-system",
+  "version": "1.0.0",
+  "description": "KIRA: Chief of Staff and AI team orchestrator. A persona-based multi-agent system for Claude Code with 6 analysis modes (Strategic, Tactical, Stakeholder, Enablement, Technical, Governance), specialist agents (LEVI, VERA, THEO, MAX, and more), structured delegation, per-agent memory, and a self-learning feedback loop. Built for AI strategy work in regulated industries.",
+  "keywords": [
+    "ai-strategy",
+    "chief-of-staff",
+    "orchestrator",
+    "multi-agent",
+    "stakeholder-navigation",
+    "governance",
+    "enablement",
+    "regulated-industries"
+  ]
+}
